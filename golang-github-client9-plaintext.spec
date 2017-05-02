@@ -1,6 +1,6 @@
 Name     : golang-github-client9-plaintext
 Version  : 444b7b59bff6d01d5ea57a9d30884b7d7584a964
-Release  : 2
+Release  : 3
 URL      : https://github.com/client9/plaintext/archive/444b7b59bff6d01d5ea57a9d30884b7d7584a964.tar.gz
 Source0  : https://github.com/client9/plaintext/archive/444b7b59bff6d01d5ea57a9d30884b7d7584a964.tar.gz
 Summary  : No detailed summary available
